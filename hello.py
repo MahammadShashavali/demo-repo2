@@ -1,4 +1,3 @@
 print("hello")
 print("mahammad")
-print("ms")
-print()
+print("ms")q
